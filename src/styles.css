@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #eee;
+}
+.header_title{
+  color: #1ef;
+   
+
+}
+.description{
+  background-color: #efd5b0
+
+
+}
+.writemsg{
+  position: relative;
+}
+.description_word{
+  color: blue;
+}
+.sender{
+  
+  margin-top: 10px;
+  background-color: #1ef;
+
+}
+ .list-group{
+    overflow-y: scroll;
+    height: 300px;
+    
+}
+.list-group-item{
+  margin: 20px;
+}
+.messages{
+border-top: 5px solid #1ef;
+border-left: 5px solid #1ef;
+    border-radius: 5px;
+
+}    
+.footer{
+  background-color: #c4cbcc;
+  margin: 10px;
+  padding: 10px;
+  
+}
